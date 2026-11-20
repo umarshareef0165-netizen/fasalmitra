@@ -7,7 +7,7 @@ prices, disease screening and profit planning — no account, no payment.
 
 ## Live demo
 
-- **App:** https://fasalmitra.vercel.app (deployed on Vercel free tier)
+- **App:** https://fasalmitra-two.vercel.app (deployed on Vercel free tier)
 - **Repo:** https://github.com/umarshareef0165-netizen/fasalmitra
 - **Demo video:** see `demo/` (≤ 3 min)
 
