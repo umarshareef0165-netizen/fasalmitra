@@ -1,0 +1,19 @@
+FasalMitra. An AI farm copilot for smallholder farmers. Built by Umar Shareef for ACE Builders 2026, the Codebenders global hackathon.
+
+A small farmer in Punjab makes five big bets every season. What to sow. When to water. When to spray. When to sell. And usually, they guess. Bad guesses wipe out a season's income.
+
+FasalMitra's crop advisor ends the guessing. Pick your crop, district, soil, season and water source, and it builds a full season plan, with a suitability score that shows its working. Wheat in Faisalabad, on loamy soil, in Rabi, scores a hundred out of a hundred, with an expected yield of seven to ten thousand kilos on five acres.
+
+Live weather comes from Open-Meteo, free, no key. Right now in Faisalabad it is twenty-four degrees, and the next seven days are completely dry, zero millimetres of rain. So the app advises irrigating on schedule, preferably in the morning.
+
+Mandi prices help farmers sell at the right time. Wheat in Lahore is shown at three thousand one hundred ninety-eight rupees per forty kilos, up almost seven percent over seven days. These are clearly labelled indicative prices, and the app tells farmers to confirm at their local mandi before selling.
+
+The disease check screens a sick crop. Upload a leaf photo. It is analysed on the farmer's own device and never uploaded anywhere. Add the symptoms, and the app ranks the likely problems, with treatment and prevention. It is labelled screening only, never a diagnosis.
+
+The profit planner turns the season into numbers. Enter costs and expected yield, and it shows net profit, profit per acre, and the break-even price and yield. It also compares six crops, so the farmer can see which one earns most before sowing a single seed.
+
+Everything works in English and Roman Urdu, because advice a farmer cannot read is advice they cannot use. It is free, with no sign-up, and no data leaves the farmer's device except the weather lookup.
+
+It is live right now at fasalmitra-two dot vercel dot app. Built with Next.js and TypeScript, deployed on Vercel's free tier, with the code open on GitHub. Zero spend, end to end.
+
+FasalMitra. Grow smarter. Earn more. Built by Umar Shareef for ACE Builders 2026.
